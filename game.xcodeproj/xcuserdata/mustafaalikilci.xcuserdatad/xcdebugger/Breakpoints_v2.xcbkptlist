@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "EF2FBD29-4A95-4F67-A648-3CEC89A476FD"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2F2A222D-4714-4D16-A434-F3E6C5BF42E5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "game/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "2F2A222D-4714-4D16-A434-F3E6C5BF42E5 - 3e0b158dc0a59c75"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "game.ViewController.highscorelabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "game"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mustafaalikilci/SwiftProjeleri/game/game/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "2F2A222D-4714-4D16-A434-F3E6C5BF42E5 - 84c06a532fdd2679"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "game.ViewController.highscorelabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "game"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mustafaalikilci/SwiftProjeleri/game/game/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "2F2A222D-4714-4D16-A434-F3E6C5BF42E5 - ec01a3a015bebbf6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "game.ViewController.highscorelabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "game"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mustafaalikilci/SwiftProjeleri/game/game/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "2F2A222D-4714-4D16-A434-F3E6C5BF42E5 - 41aca51f712ff6eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "game.ViewController.highscorelabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "game"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mustafaalikilci/SwiftProjeleri/game/game/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "2F2A222D-4714-4D16-A434-F3E6C5BF42E5 - 9a817fa8146f0e07"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "game.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; game.ViewController"
+                  moduleName = "game"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mustafaalikilci/SwiftProjeleri/game/game/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "200">
+               </Location>
+               <Location
+                  uuid = "2F2A222D-4714-4D16-A434-F3E6C5BF42E5 - d2eedd737b3a9e38"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "game.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;game.ViewController&gt;"
+                  moduleName = "game"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mustafaalikilci/SwiftProjeleri/game/game/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "176">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
